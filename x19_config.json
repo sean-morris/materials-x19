@@ -1,0 +1,184 @@
+{"8x" :
+  { "outcomes_url" :{"1":
+                      {"lab01": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2020/xblock/block-v1:BerkeleyX+Data8.1x+2T2020+type@lti_consumer+block@6333e19d6b4d46f88df671ba50f616d8/handler_noauth/outcome_service_handler",
+                        "lab02": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2020/xblock/block-v1:BerkeleyX+Data8.1x+2T2020+type@lti_consumer+block@fbf6740d45094b9b977111d218969273/handler_noauth/outcome_service_handler",
+                        "lab03": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2020/xblock/block-v1:BerkeleyX+Data8.1x+2T2020+type@lti_consumer+block@0c8f28bdc48d4231843f62b512d73638/handler_noauth/outcome_service_handler",
+                        "lab04": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2020/xblock/block-v1:BerkeleyX+Data8.1x+2T2020+type@lti_consumer+block@8db69daf14cf4751a088106be912c0cd/handler_noauth/outcome_service_handler",
+                        "lab05": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2020/xblock/block-v1:BerkeleyX+Data8.1x+2T2020+type@lti_consumer+block@4cb9e3491c284cd5ae29bb48219ee15b/handler_noauth/outcome_service_handler"
+                        },
+                      "2":
+                      {"lab01": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2020/xblock/block-v1:BerkeleyX+Data8.2x+2T2020+type@lti_consumer+block@7abc0025c10f4b8ab123dbc88d34faaf/handler_noauth/outcome_service_handler",
+                        "lab02": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2020/xblock/block-v1:BerkeleyX+Data8.2x+2T2020+type@lti_consumer+block@01a8a3b0f9aa4bacbb5ad9a39fba5d4e/handler_noauth/outcome_service_handler",
+                        "lab03": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2020/xblock/block-v1:BerkeleyX+Data8.2x+2T2020+type@lti_consumer+block@c9b7582a22e6428786f91ad0645ad744/handler_noauth/outcome_service_handler",
+                        "lab04": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2020/xblock/block-v1:BerkeleyX+Data8.2x+2T2020+type@lti_consumer+block@42ec5e82329b4a07bae4aff047949b26/handler_noauth/outcome_service_handler",
+                        "lab05": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2020/xblock/block-v1:BerkeleyX+Data8.2x+2T2020+type@lti_consumer+block@5968459a332948768de4baf00620cbf4/handler_noauth/outcome_service_handler"
+                        },
+                      "3":
+                      {"lab01": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2020/xblock/block-v1:BerkeleyX+Data8.3x+2T2020+type@lti_consumer+block@adcc1672ebcb43b7b62b72abaa434e9c/handler_noauth/outcome_service_handler",
+                        "lab02": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2020/xblock/block-v1:BerkeleyX+Data8.3x+2T2020+type@lti_consumer+block@d24302f703ff4024878da7f9dee6f734/handler_noauth/outcome_service_handler",
+                        "lab03": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2020/xblock/block-v1:BerkeleyX+Data8.3x+2T2020+type@lti_consumer+block@fe47f28fcffe42bc9c0f0bc83b1fa950/handler_noauth/outcome_service_handler",
+                        "lab04": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2020/xblock/block-v1:BerkeleyX+Data8.3x+2T2020+type@lti_consumer+block@cbe980cbeaa94212a4afb1ff536c1b19/handler_noauth/outcome_service_handler",
+                        "lab05": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2020/xblock/block-v1:BerkeleyX+Data8.3x+2T2020+type@lti_consumer+block@25e86d00096947b5b4d6f7cf2ba98641/handler_noauth/outcome_service_handler"
+                        }
+                    },
+    "sourcedid"    : {"1":
+                      {"lab01": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2020:courses.edx.org-6333e19d6b4d46f88df671ba50f616d8",
+                        "lab02": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2020:courses.edx.org-fbf6740d45094b9b977111d218969273",
+                        "lab03": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2020:courses.edx.org-0c8f28bdc48d4231843f62b512d73638",
+                        "lab04": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2020:courses.edx.org-8db69daf14cf4751a088106be912c0cd",
+                        "lab05": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2020:courses.edx.org-4cb9e3491c284cd5ae29bb48219ee15b"
+                      },
+                      "2":
+                      {"lab01": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2020:courses.edx.org-7abc0025c10f4b8ab123dbc88d34faaf",
+                        "lab02": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2020:courses.edx.org-01a8a3b0f9aa4bacbb5ad9a39fba5d4e",
+                        "lab03": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2020:courses.edx.org-c9b7582a22e6428786f91ad0645ad744",
+                        "lab04": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2020:courses.edx.org-42ec5e82329b4a07bae4aff047949b26",
+                        "lab05": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2020a:courses.edx.org-5968459a332948768de4baf00620cbf4"
+                      },
+                      "3":
+                      {"lab01": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2020:courses.edx.org-adcc1672ebcb43b7b62b72abaa434e9c",
+                        "lab02": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2020:courses.edx.org-d24302f703ff4024878da7f9dee6f734",
+                        "lab03": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2020:courses.edx.org-fe47f28fcffe42bc9c0f0bc83b1fa950",
+                        "lab04": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2020:courses.edx.org-cbe980cbeaa94212a4afb1ff536c1b19",
+                        "lab05": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2020:courses.edx.org-25e86d00096947b5b4d6f7cf2ba98641"
+                      }
+                    }
+  },
+"8x-audit" :
+  { "outcomes_url" :{"1":
+                      {"lab01": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2020/xblock/block-v1:BerkeleyX+Data8.1x+2T2020+type@lti_consumer+block@17be9fab62ef4d688095573f25023c8a/handler_noauth/outcome_service_handler",
+                        "lab02": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+1T2019a/xblock/block-v1:BerkeleyX+Data8.1x+1T2019a+type@lti_consumer+block@5ecf9759f97d47ed803daf32243caf33/handler_noauth/outcome_service_handler",
+                        "lab03": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+1T2019a/xblock/block-v1:BerkeleyX+Data8.1x+1T2019a+type@lti_consumer+block@33bd843077ab42a4b9249456c1781ebd/handler_noauth/outcome_service_handler",
+                        "lab04": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+1T2019a/xblock/block-v1:BerkeleyX+Data8.1x+1T2019a+type@lti_consumer+block@7bbcb424ec7d4e4793020e3b7b30872f/handler_noauth/outcome_service_handler",
+                        "lab05": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+1T2019a/xblock/block-v1:BerkeleyX+Data8.1x+1T2019a+type@lti_consumer+block@79e643e9ad0e4945ac7e92554ee15d91/handler_noauth/outcome_service_handler"
+                        },
+                      "2":
+                      {"lab01": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+1T2019a/xblock/block-v1:BerkeleyX+Data8.2x+1T2019a+type@lti_consumer+block@b5070a286d504b1f81a506a3ac06d67d/handler_noauth/outcome_service_handler",
+                        "lab02": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+1T2019a/xblock/block-v1:BerkeleyX+Data8.2x+1T2019a+type@lti_consumer+block@0f5a37214099475996301339429c9585/handler_noauth/outcome_service_handler",
+                        "lab03": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+1T2019a/xblock/block-v1:BerkeleyX+Data8.2x+1T2019a+type@lti_consumer+block@356ad2cf78094877a03aac45420d5b30/handler_noauth/outcome_service_handler",
+                        "lab04": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+1T2019a/xblock/block-v1:BerkeleyX+Data8.2x+1T2019a+type@lti_consumer+block@1ba9391965c944a190aa36fe79924ff4/handler_noauth/outcome_service_handler",
+                        "lab05": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+1T2019a/xblock/block-v1:BerkeleyX+Data8.2x+1T2019a+type@lti_consumer+block@19de34761e4a451795a8ce6ccb31dd24/handler_noauth/outcome_service_handler"
+                        },
+                      "3":
+                      {"lab01": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+1T2019a/xblock/block-v1:BerkeleyX+Data8.3x+1T2019a+type@lti_consumer+block@0395c443593a43ec88c9fb4bb3b57815/handler_noauth/outcome_service_handler",
+                        "lab02": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+1T2019a/xblock/block-v1:BerkeleyX+Data8.3x+1T2019a+type@lti_consumer+block@6874dbed1a1344a6b40d93f2834d36e5/handler_noauth/outcome_service_handler",
+                        "lab03": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+1T2019a/xblock/block-v1:BerkeleyX+Data8.3x+1T2019a+type@lti_consumer+block@e9440a4049f0493cb76b3018fe4c5e8c/handler_noauth/outcome_service_handler",
+                        "lab04": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+1T2019a/xblock/block-v1:BerkeleyX+Data8.3x+1T2019a+type@lti_consumer+block@88303564e3f4473aadc0b8a43f099812/handler_noauth/outcome_service_handler",
+                        "lab05": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+1T2019a/xblock/block-v1:BerkeleyX+Data8.3x+1T2019a+type@lti_consumer+block@37af353d96444bfd9798821be885236d/handler_noauth/outcome_service_handler"
+                        }
+                    },
+    "sourcedid"    : {"1":
+                      {"lab01": "course-v1%3ABerkeleyX%2BData8.1x%2B1T2019a:courses.edx.org-17be9fab62ef4d688095573f25023c8a",
+                        "lab02": "course-v1%3ABerkeleyX%2BData8.1x%2B1T2019a:courses.edx.org-5ecf9759f97d47ed803daf32243caf33",
+                        "lab03": "course-v1%3ABerkeleyX%2BData8.1x%2B1T2019a:courses.edx.org-33bd843077ab42a4b9249456c1781ebd",
+                        "lab04": "course-v1%3ABerkeleyX%2BData8.1x%2B1T2019a:courses.edx.org-7bbcb424ec7d4e4793020e3b7b30872f",
+                        "lab05": "course-v1%3ABerkeleyX%2BData8.1x%2B1T2019a:courses.edx.org-79e643e9ad0e4945ac7e92554ee15d91"
+                      },
+                      "2":
+                      {"lab01": "course-v1%3ABerkeleyX%2BData8.2x%2B1T2019a:courses.edx.org-b5070a286d504b1f81a506a3ac06d67d",
+                        "lab02": "course-v1%3ABerkeleyX%2BData8.2x%2B1T2019a:courses.edx.org-0f5a37214099475996301339429c9585",
+                        "lab03": "course-v1%3ABerkeleyX%2BData8.2x%2B1T2019a:courses.edx.org-356ad2cf78094877a03aac45420d5b30",
+                        "lab04": "course-v1%3ABerkeleyX%2BData8.2x%2B1T2019a:courses.edx.org-1ba9391965c944a190aa36fe79924ff4",
+                        "lab05": "course-v1%3ABerkeleyX%2BData8.2x%2B1T2019a:courses.edx.org-19de34761e4a451795a8ce6ccb31dd24"
+                      },
+                      "3":
+                      {"lab01": "course-v1%3ABerkeleyX%2BData8.3x%2B1T2019a:courses.edx.org-0395c443593a43ec88c9fb4bb3b57815",
+                        "lab02": "course-v1%3ABerkeleyX%2BData8.3x%2B1T2019a:courses.edx.org-6874dbed1a1344a6b40d93f2834d36e5",
+                        "lab03": "course-v1%3ABerkeleyX%2BData8.3x%2B1T2019a:courses.edx.org-e9440a4049f0493cb76b3018fe4c5e8c",
+                        "lab04": "course-v1%3ABerkeleyX%2BData8.3x%2B1T2019a:courses.edx.org-88303564e3f4473aadc0b8a43f099812",
+                        "lab05": "course-v1%3ABerkeleyX%2BData8.3x%2B1T2019a:courses.edx.org-37af353d96444bfd9798821be885236d"
+                      }
+                    }
+  },
+  "SJCC" : {"outcomes_url" :{"1":
+                      {"hw01": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2019/xblock/block-v1:BerkeleyX+Data8.1x+2T2019+type@lti_consumer+block@a2e7984e0a444055856b4621de0033e1/handler_noauth/outcome_service_handler",
+                        "hw02": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2019/xblock/block-v1:BerkeleyX+Data8.1x+2T2019+type@lti_consumer+block@4892d57e99d94007977f05d8e576f504/handler_noauth/outcome_service_handler",
+                        "hw03": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2019/xblock/block-v1:BerkeleyX+Data8.1x+2T2019+type@lti_consumer+block@fdfed21cbb9e4e8fba8d5fbc22c01ea0/handler_noauth/outcome_service_handler",
+                        "hw04": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2019/xblock/block-v1:BerkeleyX+Data8.1x+2T2019+type@lti_consumer+block@fa3fbff69f7c47a19c01fe9d68558a48/handler_noauth/outcome_service_handler",
+
+
+                        "lab01": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2019/xblock/block-v1:BerkeleyX+Data8.1x+2T2019+type@lti_consumer+block@6333e19d6b4d46f88df671ba50f616d8/handler_noauth/outcome_service_handler",
+                        "lab02": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2019/xblock/block-v1:BerkeleyX+Data8.1x+2T2019+type@lti_consumer+block@fbf6740d45094b9b977111d218969273/handler_noauth/outcome_service_handler",
+                        "lab03": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2019/xblock/block-v1:BerkeleyX+Data8.1x+2T2019+type@lti_consumer+block@0c8f28bdc48d4231843f62b512d73638/handler_noauth/outcome_service_handler",
+                        "lab04": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2019/xblock/block-v1:BerkeleyX+Data8.1x+2T2019+type@lti_consumer+block@8db69daf14cf4751a088106be912c0cd/handler_noauth/outcome_service_handler",
+                        "lab05": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.1x+2T2019/xblock/block-v1:BerkeleyX+Data8.1x+2T2019+type@lti_consumer+block@4cb9e3491c284cd5ae29bb48219ee15b/handler_noauth/outcome_service_handler"
+
+
+                      },
+                      "2":
+                      {"hw05": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2019/xblock/block-v1:BerkeleyX+Data8.2x+2T2019+type@lti_consumer+block@f609a9ae8828429aba43bb78c56febe8/handler_noauth/outcome_service_handler",
+                        "hw06": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2019/xblock/block-v1:BerkeleyX+Data8.2x+2T2019+type@lti_consumer+block@c2213e7c6277451db51ffe2249b44512/handler_noauth/outcome_service_handler",
+                        "hw07": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2019/xblock/block-v1:BerkeleyX+Data8.2x+2T2019+type@lti_consumer+block@a77f1b206d2f447898e77a85ef793a3e/handler_noauth/outcome_service_handler",
+                        "hw08": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2019/xblock/block-v1:BerkeleyX+Data8.2x+2T2019+type@lti_consumer+block@7c603412cdc444cba90699d2b11ecf96/handler_noauth/outcome_service_handler",
+
+
+
+                        "lab01": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2019/xblock/block-v1:BerkeleyX+Data8.2x+2T2019+type@lti_consumer+block@7abc0025c10f4b8ab123dbc88d34faaf/handler_noauth/outcome_service_handler",
+                        "lab02": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2019/xblock/block-v1:BerkeleyX+Data8.2x+2T2019+type@lti_consumer+block@01a8a3b0f9aa4bacbb5ad9a39fba5d4e/handler_noauth/outcome_service_handler",
+                        "lab03": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2019/xblock/block-v1:BerkeleyX+Data8.2x+2T2019+type@lti_consumer+block@c9b7582a22e6428786f91ad0645ad744/handler_noauth/outcome_service_handler",
+                        "lab04": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2019/xblock/block-v1:BerkeleyX+Data8.2x+2T2019+type@lti_consumer+block@42ec5e82329b4a07bae4aff047949b26/handler_noauth/outcome_service_handler",
+                        "lab05": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.2x+2T2019/xblock/block-v1:BerkeleyX+Data8.2x+2T2019+type@lti_consumer+block@5968459a332948768de4baf00620cbf4/handler_noauth/outcome_service_handler"
+                        },
+                      "3":
+                      {"hw09": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2019/xblock/block-v1:BerkeleyX+Data8.3x+2T2019+type@lti_consumer+block@831544be6a2f48928b452b623bfd4ea3/handler_noauth/outcome_service_handler",
+                        "hw10": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2019/xblock/block-v1:BerkeleyX+Data8.3x+2T2019+type@lti_consumer+block@394e9dcd04d643f791471cc8b27c5f38/handler_noauth/outcome_service_handler",
+                        "hw11": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2019/xblock/block-v1:BerkeleyX+Data8.3x+2T2019+type@lti_consumer+block@f811ab903c114b0694a7fd59bc6e64ed/handler_noauth/outcome_service_handler",
+                        "hw12": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2019/xblock/block-v1:BerkeleyX+Data8.3x+2T2019+type@lti_consumer+block@341ccb7400e34941a95b1997daf35dc6/handler_noauth/outcome_service_handler",
+
+
+                        "lab01": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2019/xblock/block-v1:BerkeleyX+Data8.3x+2T2019+type@lti_consumer+block@adcc1672ebcb43b7b62b72abaa434e9c/handler_noauth/outcome_service_handler",
+                        "lab02": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2019/xblock/block-v1:BerkeleyX+Data8.3x+2T2019+type@lti_consumer+block@d24302f703ff4024878da7f9dee6f734/handler_noauth/outcome_service_handler",
+                        "lab03": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2019/xblock/block-v1:BerkeleyX+Data8.3x+2T2019+type@lti_consumer+block@fe47f28fcffe42bc9c0f0bc83b1fa950/handler_noauth/outcome_service_handler",
+                        "lab04": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2019/xblock/block-v1:BerkeleyX+Data8.3x+2T2019+type@lti_consumer+block@cbe980cbeaa94212a4afb1ff536c1b19/handler_noauth/outcome_service_handler",
+                        "lab05": "https://courses.edx.org/courses/course-v1:BerkeleyX+Data8.3x+2T2019/xblock/block-v1:BerkeleyX+Data8.3x+2T2019+type@lti_consumer+block@25e86d00096947b5b4d6f7cf2ba98641/handler_noauth/outcome_service_handler"
+                        }
+                    },
+    "sourcedid"    : {"1":
+                      {"hw01": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2019:courses.edx.org-a2e7984e0a444055856b4621de0033e1",
+                        "hw02": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2019:courses.edx.org-4892d57e99d94007977f05d8e576f504",
+                        "hw03": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2019:courses.edx.org-fdfed21cbb9e4e8fba8d5fbc22c01ea0",
+                        "hw04": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2019:courses.edx.org-fa3fbff69f7c47a19c01fe9d68558a48",
+
+
+
+                        "lab01": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2019:courses.edx.org-6333e19d6b4d46f88df671ba50f616d8",
+                        "lab02": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2019:courses.edx.org-fbf6740d45094b9b977111d218969273",
+                        "lab03": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2019:courses.edx.org-0c8f28bdc48d4231843f62b512d73638",
+                        "lab04": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2019:courses.edx.org-8db69daf14cf4751a088106be912c0cd",
+                        "lab05": "course-v1%3ABerkeleyX%2BData8.1x%2B2T2019:courses.edx.org-4cb9e3491c284cd5ae29bb48219ee15b"
+
+                        },
+                      "2":
+                      {"hw05": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2019:courses.edx.org-f609a9ae8828429aba43bb78c56febe8",
+                        "hw06": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2019:courses.edx.org-c2213e7c6277451db51ffe2249b44512",
+                        "hw07": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2019:courses.edx.org-a77f1b206d2f447898e77a85ef793a3e",
+                        "hw08": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2019:courses.edx.org-7c603412cdc444cba90699d2b11ecf96",
+
+
+                        "lab01": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2019:courses.edx.org-7abc0025c10f4b8ab123dbc88d34faaf",
+                        "lab02": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2019:courses.edx.org-01a8a3b0f9aa4bacbb5ad9a39fba5d4e",
+                        "lab03": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2019:courses.edx.org-c9b7582a22e6428786f91ad0645ad744",
+                        "lab04": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2019:courses.edx.org-42ec5e82329b4a07bae4aff047949b26",
+                        "lab05": "course-v1%3ABerkeleyX%2BData8.2x%2B2T2019:courses.edx.org-5968459a332948768de4baf00620cbf4"
+
+                        },
+                      "3":
+                      {"hw09": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2019:courses.edx.org-831544be6a2f48928b452b623bfd4ea3",
+                        "hw10": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2019:courses.edx.org-394e9dcd04d643f791471cc8b27c5f38",
+                        "hw11": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2019:courses.edx.org-f811ab903c114b0694a7fd59bc6e64ed",
+                        "hw12": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2019:courses.edx.org-341ccb7400e34941a95b1997daf35dc6",
+
+
+
+                        "lab01": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2019:courses.edx.org-adcc1672ebcb43b7b62b72abaa434e9c",
+                        "lab02": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2019:courses.edx.org-d24302f703ff4024878da7f9dee6f734",
+                        "lab03": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2019:courses.edx.org-fe47f28fcffe42bc9c0f0bc83b1fa950",
+                        "lab04": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2019:courses.edx.org-cbe980cbeaa94212a4afb1ff536c1b19",
+                        "lab05": "course-v1%3ABerkeleyX%2BData8.3x%2B2T2019:courses.edx.org-25e86d00096947b5b4d6f7cf2ba98641"
+
+
+                        }
+                    }
+  }
+
+  }
